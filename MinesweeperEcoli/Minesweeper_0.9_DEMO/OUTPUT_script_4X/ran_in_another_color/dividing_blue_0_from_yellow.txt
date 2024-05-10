@@ -1,0 +1,621 @@
+0	5.0i	10.1 	Genes	Divided
+1	5.0j	10.1 	Genes	Divided
+11	5.0c 5.0j	10.1 	Genes	Divided
+12	5.0e 5.0i	10.1 	Genes	Divided
+13	5.0e 5.0j	10.1 	Genes	Divided
+14	5.0g 5.0i	10.1 	Genes	Divided
+15	5.0g 5.0j	10.1 	Genes	Divided
+16	5.0i 5.0j	10.1 	Genes	Divided
+17	5.0i 5.0k	10.1 	Genes	Divided
+18	5.0i 5.0n	10.1 	Genes	Divided
+19	5.0i 5.0p	10.1 	Genes	Divided
+20	5.0i 5.0q	10.1 	Genes	Divided
+21	5.0i 5.0r	10.1 	Genes	Divided
+22	5.0j 5.0k	10.1 	Genes	Divided
+23	5.0j 5.0n	10.1 	Genes	Divided
+24	5.0j 5.0p	10.1 	Genes	Divided
+25	5.0j 5.0q	10.1 	Genes	Divided
+26	5.0j 5.0r	10.1 	Genes	Divided
+108	5.0c 5.0e 5.0j	10.1 	Genes	Divided
+110	5.0c 5.0g 5.0j	10.1 	Genes	Divided
+117	5.0c 5.0j 5.0k	10.1 	Genes	Divided
+118	5.0c 5.0j 5.0n	10.1 	Genes	Divided
+120	5.0c 5.0j 5.0q	10.1 	Genes	Divided
+121	5.0c 5.0j 5.0r	10.1 	Genes	Divided
+122	5.0e 5.0g 5.0i	10.1 	Genes	Divided
+123	5.0e 5.0g 5.0j	10.1 	Genes	Divided
+124	5.0e 5.0i 5.0j	10.1 	Genes	Divided
+125	5.0e 5.0i 5.0k	10.1 	Genes	Divided
+126	5.0e 5.0i 5.0n	10.1 	Genes	Divided
+127	5.0e 5.0i 5.0p	10.1 	Genes	Divided
+129	5.0e 5.0i 5.0r	10.1 	Genes	Divided
+130	5.0e 5.0j 5.0k	10.1 	Genes	Divided
+131	5.0e 5.0j 5.0n	10.1 	Genes	Divided
+132	5.0e 5.0j 5.0p	10.1 	Genes	Divided
+133	5.0e 5.0j 5.0q	10.1 	Genes	Divided
+134	5.0e 5.0j 5.0r	10.1 	Genes	Divided
+135	5.0g 5.0i 5.0j	10.1 	Genes	Divided
+136	5.0g 5.0i 5.0k	10.1 	Genes	Divided
+137	5.0g 5.0i 5.0n	10.1 	Genes	Divided
+138	5.0g 5.0i 5.0p	10.1 	Genes	Divided
+141	5.0g 5.0j 5.0k	10.1 	Genes	Divided
+142	5.0g 5.0j 5.0n	10.1 	Genes	Divided
+143	5.0g 5.0j 5.0p	10.1 	Genes	Divided
+145	5.0g 5.0j 5.0r	10.1 	Genes	Divided
+146	5.0i 5.0j 5.0k	10.1 	Genes	Divided
+147	5.0i 5.0j 5.0n	10.1 	Genes	Divided
+150	5.0i 5.0j 5.0r	10.1 	Genes	Divided
+151	5.0i 5.0k 5.0n	10.1 	Genes	Divided
+153	5.0i 5.0k 5.0q	10.1 	Genes	Divided
+154	5.0i 5.0k 5.0r	10.1 	Genes	Divided
+155	5.0i 5.0n 5.0p	10.1 	Genes	Divided
+156	5.0i 5.0n 5.0q	10.1 	Genes	Divided
+158	5.0i 5.0p 5.0q	10.1 	Genes	Divided
+159	5.0i 5.0p 5.0r	10.1 	Genes	Divided
+161	5.0j 5.0k 5.0n	10.1 	Genes	Divided
+162	5.0j 5.0k 5.0p	10.1 	Genes	Divided
+163	5.0j 5.0k 5.0q	10.1 	Genes	Divided
+164	5.0j 5.0k 5.0r	10.1 	Genes	Divided
+165	5.0j 5.0n 5.0p	10.1 	Genes	Divided
+166	5.0j 5.0n 5.0q	10.1 	Genes	Divided
+169	5.0j 5.0p 5.0r	10.1 	Genes	Divided
+170	5.0j 5.0q 5.0r	10.1 	Genes	Divided
+545	5.0c 5.0e 5.0j 5.0k	10.1 	Genes	Divided
+546	5.0c 5.0e 5.0j 5.0n	10.1 	Genes	Divided
+548	5.0c 5.0e 5.0j 5.0q	10.1 	Genes	Divided
+549	5.0c 5.0e 5.0j 5.0r	10.1 	Genes	Divided
+556	5.0c 5.0g 5.0j 5.0k	10.1 	Genes	Divided
+557	5.0c 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+558	5.0c 5.0g 5.0j 5.0p	10.1 	Genes	Divided
+560	5.0c 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+576	5.0c 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+577	5.0c 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+578	5.0c 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+579	5.0c 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+581	5.0c 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+584	5.0c 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+585	5.0c 5.0j 5.0q 5.0r	10.1 	Genes	Divided
+587	5.0e 5.0g 5.0i 5.0k	10.1 	Genes	Divided
+588	5.0e 5.0g 5.0i 5.0n	10.1 	Genes	Divided
+589	5.0e 5.0g 5.0i 5.0p	10.1 	Genes	Divided
+591	5.0e 5.0g 5.0i 5.0r	10.1 	Genes	Divided
+592	5.0e 5.0g 5.0j 5.0k	10.1 	Genes	Divided
+593	5.0e 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+596	5.0e 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+597	5.0e 5.0i 5.0j 5.0k	10.1 	Genes	Divided
+598	5.0e 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+599	5.0e 5.0i 5.0j 5.0p	10.1 	Genes	Divided
+600	5.0e 5.0i 5.0j 5.0q	10.1 	Genes	Divided
+601	5.0e 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+602	5.0e 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+603	5.0e 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+604	5.0e 5.0i 5.0k 5.0q	10.1 	Genes	Divided
+605	5.0e 5.0i 5.0k 5.0r	10.1 	Genes	Divided
+606	5.0e 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+607	5.0e 5.0i 5.0n 5.0q	10.1 	Genes	Divided
+609	5.0e 5.0i 5.0p 5.0q	10.1 	Genes	Divided
+610	5.0e 5.0i 5.0p 5.0r	10.1 	Genes	Divided
+611	5.0e 5.0i 5.0q 5.0r	10.1 	Genes	Divided
+612	5.0e 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+613	5.0e 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+614	5.0e 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+615	5.0e 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+616	5.0e 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+617	5.0e 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+619	5.0e 5.0j 5.0p 5.0q	10.1 	Genes	Divided
+620	5.0e 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+622	5.0g 5.0i 5.0j 5.0k	10.1 	Genes	Divided
+623	5.0g 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+624	5.0g 5.0i 5.0j 5.0p	10.1 	Genes	Divided
+626	5.0g 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+627	5.0g 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+628	5.0g 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+630	5.0g 5.0i 5.0k 5.0r	10.1 	Genes	Divided
+631	5.0g 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+637	5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+638	5.0g 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+640	5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+641	5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+645	5.0g 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+647	5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+648	5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+650	5.0i 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+651	5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+652	5.0i 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+655	5.0i 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+657	5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+658	5.0i 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+661	5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+667	5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+668	5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+671	5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+672	5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1698	5.0c 5.0e 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+1701	5.0c 5.0e 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+1717	5.0c 5.0e 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1718	5.0c 5.0e 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+1720	5.0c 5.0e 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1722	5.0c 5.0e 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+1742	5.0c 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1745	5.0c 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1746	5.0c 5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1773	5.0c 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1776	5.0c 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1777	5.0c 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1783	5.0e 5.0g 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+1786	5.0e 5.0g 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+1787	5.0e 5.0g 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+1788	5.0e 5.0g 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+1791	5.0e 5.0g 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+1795	5.0e 5.0g 5.0i 5.0p 5.0r	10.1 	Genes	Divided
+1797	5.0e 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1800	5.0e 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1801	5.0e 5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1805	5.0e 5.0g 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+1807	5.0e 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1809	5.0e 5.0i 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+1811	5.0e 5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1812	5.0e 5.0i 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+1814	5.0e 5.0i 5.0j 5.0p 5.0q	10.1 	Genes	Divided
+1816	5.0e 5.0i 5.0j 5.0q 5.0r	10.1 	Genes	Divided
+1817	5.0e 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1818	5.0e 5.0i 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1820	5.0e 5.0i 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1821	5.0e 5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1822	5.0e 5.0i 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1826	5.0e 5.0i 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+1827	5.0e 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1828	5.0e 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1830	5.0e 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1831	5.0e 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1836	5.0e 5.0j 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+1837	5.0g 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1838	5.0g 5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+1840	5.0g 5.0i 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1841	5.0g 5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1847	5.0g 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1857	5.0g 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1861	5.0g 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1867	5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1868	5.0i 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1870	5.0i 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1871	5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1872	5.0i 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1885	5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3799	5.0c 5.0e 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+3802	5.0c 5.0e 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+3829	5.0c 5.0e 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3830	5.0c 5.0e 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+3833	5.0c 5.0e 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3834	5.0c 5.0e 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+3887	5.0c 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3889	5.0e 5.0g 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+3890	5.0e 5.0g 5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+3899	5.0e 5.0g 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3903	5.0e 5.0g 5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3919	5.0e 5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3920	5.0e 5.0i 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+3922	5.0e 5.0i 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+3923	5.0e 5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3924	5.0e 5.0i 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+3928	5.0e 5.0i 5.0j 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3932	5.0e 5.0i 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3937	5.0e 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3939	5.0g 5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+6518	5.0c 5.0e 5.0g 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+6575	5.0e 5.0g 5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+6594	5.0e 5.0i 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+0	5.0i	10.1 	Genes	Divided
+1	5.0j	10.1 	Genes	Divided
+11	5.0c 5.0j	10.1 	Genes	Divided
+12	5.0e 5.0i	10.1 	Genes	Divided
+13	5.0e 5.0j	10.1 	Genes	Divided
+14	5.0g 5.0i	10.1 	Genes	Divided
+15	5.0g 5.0j	10.1 	Genes	Divided
+16	5.0i 5.0j	10.1 	Genes	Divided
+17	5.0i 5.0k	10.1 	Genes	Divided
+18	5.0i 5.0n	10.1 	Genes	Divided
+19	5.0i 5.0p	10.1 	Genes	Divided
+20	5.0i 5.0q	10.1 	Genes	Divided
+21	5.0i 5.0r	10.1 	Genes	Divided
+22	5.0j 5.0k	10.1 	Genes	Divided
+23	5.0j 5.0n	10.1 	Genes	Divided
+24	5.0j 5.0p	10.1 	Genes	Divided
+25	5.0j 5.0q	10.1 	Genes	Divided
+26	5.0j 5.0r	10.1 	Genes	Divided
+108	5.0c 5.0e 5.0j	10.1 	Genes	Divided
+110	5.0c 5.0g 5.0j	10.1 	Genes	Divided
+117	5.0c 5.0j 5.0k	10.1 	Genes	Divided
+118	5.0c 5.0j 5.0n	10.1 	Genes	Divided
+120	5.0c 5.0j 5.0q	10.1 	Genes	Divided
+121	5.0c 5.0j 5.0r	10.1 	Genes	Divided
+122	5.0e 5.0g 5.0i	10.1 	Genes	Divided
+123	5.0e 5.0g 5.0j	10.1 	Genes	Divided
+124	5.0e 5.0i 5.0j	10.1 	Genes	Divided
+125	5.0e 5.0i 5.0k	10.1 	Genes	Divided
+126	5.0e 5.0i 5.0n	10.1 	Genes	Divided
+127	5.0e 5.0i 5.0p	10.1 	Genes	Divided
+129	5.0e 5.0i 5.0r	10.1 	Genes	Divided
+130	5.0e 5.0j 5.0k	10.1 	Genes	Divided
+131	5.0e 5.0j 5.0n	10.1 	Genes	Divided
+132	5.0e 5.0j 5.0p	10.1 	Genes	Divided
+133	5.0e 5.0j 5.0q	10.1 	Genes	Divided
+134	5.0e 5.0j 5.0r	10.1 	Genes	Divided
+135	5.0g 5.0i 5.0j	10.1 	Genes	Divided
+136	5.0g 5.0i 5.0k	10.1 	Genes	Divided
+137	5.0g 5.0i 5.0n	10.1 	Genes	Divided
+138	5.0g 5.0i 5.0p	10.1 	Genes	Divided
+141	5.0g 5.0j 5.0k	10.1 	Genes	Divided
+142	5.0g 5.0j 5.0n	10.1 	Genes	Divided
+143	5.0g 5.0j 5.0p	10.1 	Genes	Divided
+145	5.0g 5.0j 5.0r	10.1 	Genes	Divided
+146	5.0i 5.0j 5.0k	10.1 	Genes	Divided
+147	5.0i 5.0j 5.0n	10.1 	Genes	Divided
+150	5.0i 5.0j 5.0r	10.1 	Genes	Divided
+151	5.0i 5.0k 5.0n	10.1 	Genes	Divided
+153	5.0i 5.0k 5.0q	10.1 	Genes	Divided
+154	5.0i 5.0k 5.0r	10.1 	Genes	Divided
+155	5.0i 5.0n 5.0p	10.1 	Genes	Divided
+156	5.0i 5.0n 5.0q	10.1 	Genes	Divided
+158	5.0i 5.0p 5.0q	10.1 	Genes	Divided
+159	5.0i 5.0p 5.0r	10.1 	Genes	Divided
+161	5.0j 5.0k 5.0n	10.1 	Genes	Divided
+162	5.0j 5.0k 5.0p	10.1 	Genes	Divided
+163	5.0j 5.0k 5.0q	10.1 	Genes	Divided
+164	5.0j 5.0k 5.0r	10.1 	Genes	Divided
+165	5.0j 5.0n 5.0p	10.1 	Genes	Divided
+166	5.0j 5.0n 5.0q	10.1 	Genes	Divided
+169	5.0j 5.0p 5.0r	10.1 	Genes	Divided
+170	5.0j 5.0q 5.0r	10.1 	Genes	Divided
+545	5.0c 5.0e 5.0j 5.0k	10.1 	Genes	Divided
+546	5.0c 5.0e 5.0j 5.0n	10.1 	Genes	Divided
+548	5.0c 5.0e 5.0j 5.0q	10.1 	Genes	Divided
+549	5.0c 5.0e 5.0j 5.0r	10.1 	Genes	Divided
+556	5.0c 5.0g 5.0j 5.0k	10.1 	Genes	Divided
+557	5.0c 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+558	5.0c 5.0g 5.0j 5.0p	10.1 	Genes	Divided
+560	5.0c 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+576	5.0c 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+577	5.0c 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+578	5.0c 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+579	5.0c 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+581	5.0c 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+584	5.0c 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+585	5.0c 5.0j 5.0q 5.0r	10.1 	Genes	Divided
+587	5.0e 5.0g 5.0i 5.0k	10.1 	Genes	Divided
+588	5.0e 5.0g 5.0i 5.0n	10.1 	Genes	Divided
+589	5.0e 5.0g 5.0i 5.0p	10.1 	Genes	Divided
+591	5.0e 5.0g 5.0i 5.0r	10.1 	Genes	Divided
+592	5.0e 5.0g 5.0j 5.0k	10.1 	Genes	Divided
+593	5.0e 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+596	5.0e 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+597	5.0e 5.0i 5.0j 5.0k	10.1 	Genes	Divided
+598	5.0e 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+599	5.0e 5.0i 5.0j 5.0p	10.1 	Genes	Divided
+600	5.0e 5.0i 5.0j 5.0q	10.1 	Genes	Divided
+601	5.0e 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+602	5.0e 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+603	5.0e 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+604	5.0e 5.0i 5.0k 5.0q	10.1 	Genes	Divided
+605	5.0e 5.0i 5.0k 5.0r	10.1 	Genes	Divided
+606	5.0e 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+607	5.0e 5.0i 5.0n 5.0q	10.1 	Genes	Divided
+609	5.0e 5.0i 5.0p 5.0q	10.1 	Genes	Divided
+610	5.0e 5.0i 5.0p 5.0r	10.1 	Genes	Divided
+611	5.0e 5.0i 5.0q 5.0r	10.1 	Genes	Divided
+612	5.0e 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+613	5.0e 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+614	5.0e 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+615	5.0e 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+616	5.0e 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+617	5.0e 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+619	5.0e 5.0j 5.0p 5.0q	10.1 	Genes	Divided
+620	5.0e 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+622	5.0g 5.0i 5.0j 5.0k	10.1 	Genes	Divided
+623	5.0g 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+624	5.0g 5.0i 5.0j 5.0p	10.1 	Genes	Divided
+626	5.0g 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+627	5.0g 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+628	5.0g 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+630	5.0g 5.0i 5.0k 5.0r	10.1 	Genes	Divided
+631	5.0g 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+637	5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+638	5.0g 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+640	5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+641	5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+645	5.0g 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+647	5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+648	5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+650	5.0i 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+651	5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+652	5.0i 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+655	5.0i 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+657	5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+658	5.0i 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+661	5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+667	5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+668	5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+671	5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+672	5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1698	5.0c 5.0e 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+1701	5.0c 5.0e 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+1717	5.0c 5.0e 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1718	5.0c 5.0e 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+1720	5.0c 5.0e 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1722	5.0c 5.0e 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+1742	5.0c 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1745	5.0c 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1746	5.0c 5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1773	5.0c 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1776	5.0c 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1777	5.0c 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1783	5.0e 5.0g 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+1786	5.0e 5.0g 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+1787	5.0e 5.0g 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+1788	5.0e 5.0g 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+1791	5.0e 5.0g 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+1795	5.0e 5.0g 5.0i 5.0p 5.0r	10.1 	Genes	Divided
+1797	5.0e 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1800	5.0e 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1801	5.0e 5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1805	5.0e 5.0g 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+1807	5.0e 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1809	5.0e 5.0i 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+1811	5.0e 5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1812	5.0e 5.0i 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+1814	5.0e 5.0i 5.0j 5.0p 5.0q	10.1 	Genes	Divided
+1816	5.0e 5.0i 5.0j 5.0q 5.0r	10.1 	Genes	Divided
+1817	5.0e 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1818	5.0e 5.0i 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1820	5.0e 5.0i 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1821	5.0e 5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1822	5.0e 5.0i 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1826	5.0e 5.0i 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+1827	5.0e 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1828	5.0e 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1830	5.0e 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1831	5.0e 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1836	5.0e 5.0j 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+1837	5.0g 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1838	5.0g 5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+1840	5.0g 5.0i 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1841	5.0g 5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1847	5.0g 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1857	5.0g 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1861	5.0g 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1867	5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1868	5.0i 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1870	5.0i 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1871	5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1872	5.0i 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1885	5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3799	5.0c 5.0e 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+3802	5.0c 5.0e 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+3829	5.0c 5.0e 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3830	5.0c 5.0e 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+3833	5.0c 5.0e 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3834	5.0c 5.0e 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+3887	5.0c 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3889	5.0e 5.0g 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+3890	5.0e 5.0g 5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+3899	5.0e 5.0g 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3903	5.0e 5.0g 5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3919	5.0e 5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3920	5.0e 5.0i 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+3922	5.0e 5.0i 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+3923	5.0e 5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3924	5.0e 5.0i 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+3928	5.0e 5.0i 5.0j 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3932	5.0e 5.0i 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3937	5.0e 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3939	5.0g 5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+6518	5.0c 5.0e 5.0g 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+6575	5.0e 5.0g 5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+6594	5.0e 5.0i 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+0	5.0i	10.1 	Genes	Divided
+1	5.0j	10.1 	Genes	Divided
+11	5.0c 5.0j	10.1 	Genes	Divided
+12	5.0e 5.0i	10.1 	Genes	Divided
+13	5.0e 5.0j	10.1 	Genes	Divided
+14	5.0g 5.0i	10.1 	Genes	Divided
+15	5.0g 5.0j	10.1 	Genes	Divided
+16	5.0i 5.0j	10.1 	Genes	Divided
+17	5.0i 5.0k	10.1 	Genes	Divided
+18	5.0i 5.0n	10.1 	Genes	Divided
+19	5.0i 5.0p	10.1 	Genes	Divided
+20	5.0i 5.0q	10.1 	Genes	Divided
+21	5.0i 5.0r	10.1 	Genes	Divided
+22	5.0j 5.0k	10.1 	Genes	Divided
+23	5.0j 5.0n	10.1 	Genes	Divided
+24	5.0j 5.0p	10.1 	Genes	Divided
+25	5.0j 5.0q	10.1 	Genes	Divided
+26	5.0j 5.0r	10.1 	Genes	Divided
+108	5.0c 5.0e 5.0j	10.1 	Genes	Divided
+110	5.0c 5.0g 5.0j	10.1 	Genes	Divided
+117	5.0c 5.0j 5.0k	10.1 	Genes	Divided
+118	5.0c 5.0j 5.0n	10.1 	Genes	Divided
+120	5.0c 5.0j 5.0q	10.1 	Genes	Divided
+121	5.0c 5.0j 5.0r	10.1 	Genes	Divided
+122	5.0e 5.0g 5.0i	10.1 	Genes	Divided
+123	5.0e 5.0g 5.0j	10.1 	Genes	Divided
+124	5.0e 5.0i 5.0j	10.1 	Genes	Divided
+125	5.0e 5.0i 5.0k	10.1 	Genes	Divided
+126	5.0e 5.0i 5.0n	10.1 	Genes	Divided
+127	5.0e 5.0i 5.0p	10.1 	Genes	Divided
+129	5.0e 5.0i 5.0r	10.1 	Genes	Divided
+130	5.0e 5.0j 5.0k	10.1 	Genes	Divided
+131	5.0e 5.0j 5.0n	10.1 	Genes	Divided
+132	5.0e 5.0j 5.0p	10.1 	Genes	Divided
+133	5.0e 5.0j 5.0q	10.1 	Genes	Divided
+134	5.0e 5.0j 5.0r	10.1 	Genes	Divided
+135	5.0g 5.0i 5.0j	10.1 	Genes	Divided
+136	5.0g 5.0i 5.0k	10.1 	Genes	Divided
+137	5.0g 5.0i 5.0n	10.1 	Genes	Divided
+138	5.0g 5.0i 5.0p	10.1 	Genes	Divided
+141	5.0g 5.0j 5.0k	10.1 	Genes	Divided
+142	5.0g 5.0j 5.0n	10.1 	Genes	Divided
+143	5.0g 5.0j 5.0p	10.1 	Genes	Divided
+145	5.0g 5.0j 5.0r	10.1 	Genes	Divided
+146	5.0i 5.0j 5.0k	10.1 	Genes	Divided
+147	5.0i 5.0j 5.0n	10.1 	Genes	Divided
+150	5.0i 5.0j 5.0r	10.1 	Genes	Divided
+151	5.0i 5.0k 5.0n	10.1 	Genes	Divided
+153	5.0i 5.0k 5.0q	10.1 	Genes	Divided
+154	5.0i 5.0k 5.0r	10.1 	Genes	Divided
+155	5.0i 5.0n 5.0p	10.1 	Genes	Divided
+156	5.0i 5.0n 5.0q	10.1 	Genes	Divided
+158	5.0i 5.0p 5.0q	10.1 	Genes	Divided
+159	5.0i 5.0p 5.0r	10.1 	Genes	Divided
+161	5.0j 5.0k 5.0n	10.1 	Genes	Divided
+162	5.0j 5.0k 5.0p	10.1 	Genes	Divided
+163	5.0j 5.0k 5.0q	10.1 	Genes	Divided
+164	5.0j 5.0k 5.0r	10.1 	Genes	Divided
+165	5.0j 5.0n 5.0p	10.1 	Genes	Divided
+166	5.0j 5.0n 5.0q	10.1 	Genes	Divided
+169	5.0j 5.0p 5.0r	10.1 	Genes	Divided
+170	5.0j 5.0q 5.0r	10.1 	Genes	Divided
+545	5.0c 5.0e 5.0j 5.0k	10.1 	Genes	Divided
+546	5.0c 5.0e 5.0j 5.0n	10.1 	Genes	Divided
+548	5.0c 5.0e 5.0j 5.0q	10.1 	Genes	Divided
+549	5.0c 5.0e 5.0j 5.0r	10.1 	Genes	Divided
+556	5.0c 5.0g 5.0j 5.0k	10.1 	Genes	Divided
+557	5.0c 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+558	5.0c 5.0g 5.0j 5.0p	10.1 	Genes	Divided
+560	5.0c 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+576	5.0c 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+577	5.0c 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+578	5.0c 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+579	5.0c 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+581	5.0c 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+584	5.0c 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+585	5.0c 5.0j 5.0q 5.0r	10.1 	Genes	Divided
+587	5.0e 5.0g 5.0i 5.0k	10.1 	Genes	Divided
+588	5.0e 5.0g 5.0i 5.0n	10.1 	Genes	Divided
+589	5.0e 5.0g 5.0i 5.0p	10.1 	Genes	Divided
+591	5.0e 5.0g 5.0i 5.0r	10.1 	Genes	Divided
+592	5.0e 5.0g 5.0j 5.0k	10.1 	Genes	Divided
+593	5.0e 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+596	5.0e 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+597	5.0e 5.0i 5.0j 5.0k	10.1 	Genes	Divided
+598	5.0e 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+599	5.0e 5.0i 5.0j 5.0p	10.1 	Genes	Divided
+600	5.0e 5.0i 5.0j 5.0q	10.1 	Genes	Divided
+601	5.0e 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+602	5.0e 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+603	5.0e 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+604	5.0e 5.0i 5.0k 5.0q	10.1 	Genes	Divided
+605	5.0e 5.0i 5.0k 5.0r	10.1 	Genes	Divided
+606	5.0e 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+607	5.0e 5.0i 5.0n 5.0q	10.1 	Genes	Divided
+609	5.0e 5.0i 5.0p 5.0q	10.1 	Genes	Divided
+610	5.0e 5.0i 5.0p 5.0r	10.1 	Genes	Divided
+611	5.0e 5.0i 5.0q 5.0r	10.1 	Genes	Divided
+612	5.0e 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+613	5.0e 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+614	5.0e 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+615	5.0e 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+616	5.0e 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+617	5.0e 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+619	5.0e 5.0j 5.0p 5.0q	10.1 	Genes	Divided
+620	5.0e 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+622	5.0g 5.0i 5.0j 5.0k	10.1 	Genes	Divided
+623	5.0g 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+624	5.0g 5.0i 5.0j 5.0p	10.1 	Genes	Divided
+626	5.0g 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+627	5.0g 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+628	5.0g 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+630	5.0g 5.0i 5.0k 5.0r	10.1 	Genes	Divided
+631	5.0g 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+637	5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+638	5.0g 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+640	5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+641	5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+645	5.0g 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+647	5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+648	5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+650	5.0i 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+651	5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+652	5.0i 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+655	5.0i 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+657	5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+658	5.0i 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+661	5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+667	5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+668	5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+671	5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+672	5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1698	5.0c 5.0e 5.0g 5.0j 5.0n	10.1 	Genes	Divided
+1701	5.0c 5.0e 5.0g 5.0j 5.0r	10.1 	Genes	Divided
+1717	5.0c 5.0e 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1718	5.0c 5.0e 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+1720	5.0c 5.0e 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1722	5.0c 5.0e 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+1742	5.0c 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1745	5.0c 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1746	5.0c 5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1773	5.0c 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1776	5.0c 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1777	5.0c 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1783	5.0e 5.0g 5.0i 5.0j 5.0n	10.1 	Genes	Divided
+1786	5.0e 5.0g 5.0i 5.0j 5.0r	10.1 	Genes	Divided
+1787	5.0e 5.0g 5.0i 5.0k 5.0n	10.1 	Genes	Divided
+1788	5.0e 5.0g 5.0i 5.0k 5.0p	10.1 	Genes	Divided
+1791	5.0e 5.0g 5.0i 5.0n 5.0p	10.1 	Genes	Divided
+1795	5.0e 5.0g 5.0i 5.0p 5.0r	10.1 	Genes	Divided
+1797	5.0e 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1800	5.0e 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1801	5.0e 5.0g 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1805	5.0e 5.0g 5.0j 5.0p 5.0r	10.1 	Genes	Divided
+1807	5.0e 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1809	5.0e 5.0i 5.0j 5.0k 5.0q	10.1 	Genes	Divided
+1811	5.0e 5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1812	5.0e 5.0i 5.0j 5.0n 5.0q	10.1 	Genes	Divided
+1814	5.0e 5.0i 5.0j 5.0p 5.0q	10.1 	Genes	Divided
+1816	5.0e 5.0i 5.0j 5.0q 5.0r	10.1 	Genes	Divided
+1817	5.0e 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1818	5.0e 5.0i 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1820	5.0e 5.0i 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1821	5.0e 5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1822	5.0e 5.0i 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1826	5.0e 5.0i 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+1827	5.0e 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1828	5.0e 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1830	5.0e 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1831	5.0e 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1836	5.0e 5.0j 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+1837	5.0g 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+1838	5.0g 5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+1840	5.0g 5.0i 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+1841	5.0g 5.0i 5.0j 5.0n 5.0p	10.1 	Genes	Divided
+1847	5.0g 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1857	5.0g 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1861	5.0g 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1867	5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+1868	5.0i 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+1870	5.0i 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+1871	5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+1872	5.0i 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+1885	5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3799	5.0c 5.0e 5.0g 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+3802	5.0c 5.0e 5.0g 5.0j 5.0k 5.0r	10.1 	Genes	Divided
+3829	5.0c 5.0e 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3830	5.0c 5.0e 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+3833	5.0c 5.0e 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3834	5.0c 5.0e 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+3887	5.0c 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3889	5.0e 5.0g 5.0i 5.0j 5.0k 5.0n	10.1 	Genes	Divided
+3890	5.0e 5.0g 5.0i 5.0j 5.0k 5.0p	10.1 	Genes	Divided
+3899	5.0e 5.0g 5.0i 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3903	5.0e 5.0g 5.0i 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3919	5.0e 5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+3920	5.0e 5.0i 5.0j 5.0k 5.0n 5.0q	10.1 	Genes	Divided
+3922	5.0e 5.0i 5.0j 5.0k 5.0p 5.0q	10.1 	Genes	Divided
+3923	5.0e 5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+3924	5.0e 5.0i 5.0j 5.0k 5.0q 5.0r	10.1 	Genes	Divided
+3928	5.0e 5.0i 5.0j 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3932	5.0e 5.0i 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3937	5.0e 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided
+3939	5.0g 5.0i 5.0j 5.0k 5.0n 5.0p	10.1 	Genes	Divided
+6518	5.0c 5.0e 5.0g 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+6575	5.0e 5.0g 5.0i 5.0j 5.0k 5.0p 5.0r	10.1 	Genes	Divided
+6594	5.0e 5.0i 5.0j 5.0k 5.0p 5.0q 5.0r	10.1 	Genes	Divided

@@ -1,0 +1,255 @@
+229	7 1 6 5 8 4	13.89 	Genes	NoDivision
+233	7 2 6 5 8 3	13.89 	Genes	NoDivision
+232	7 1 5 8 3 4	13.89 	Genes	NoDivision
+231	7 1 6 8 3 4	13.89 	Genes	NoDivision
+230	7 1 6 5 3 4	13.89 	Genes	NoDivision
+228	7 1 6 5 8 3	13.89 	Genes	NoDivision
+143	1 5 8 3	13.89 	Genes	NoDivision
+140	1 6 8 3	13.89 	Genes	NoDivision
+142	1 6 3 4	13.89 	Genes	NoDivision
+138	1 6 5 3	13.89 	Genes	NoDivision
+139	1 6 5 4	13.89 	Genes	NoDivision
+141	1 6 8 4	13.89 	Genes	NoDivision
+19	1 3	13.89 	Genes	NoDivision
+23	2 8	13.89 	Genes	NoDivision
+18	1 8	13.89 	Genes	NoDivision
+21	2 6	13.89 	Genes	NoDivision
+22	2 5	13.89 	Genes	NoDivision
+20	1 4	13.89 	Genes	NoDivision
+17	1 5	13.89 	Genes	NoDivision
+13	7 3	13.89 	Genes	NoDivision
+12	7 8	13.89 	Genes	NoDivision
+16	1 6	13.89 	Genes	NoDivision
+15	1 2	13.89 	Genes	NoDivision
+14	7 4	13.89 	Genes	NoDivision
+168	7 1 2 5 4	13.89 	Genes	NoDivision
+170	7 1 2 8 4	13.89 	Genes	NoDivision
+169	7 1 2 8 3	13.89 	Genes	NoDivision
+171	7 1 2 3 4	13.89 	Genes	NoDivision
+173	7 1 6 5 3	13.89 	Genes	NoDivision
+172	7 1 6 5 8	13.89 	Genes	NoDivision
+163	7 1 2 6 8	13.89 	Genes	NoDivision
+165	7 1 2 6 4	13.89 	Genes	NoDivision
+164	7 1 2 6 3	13.89 	Genes	NoDivision
+167	7 1 2 5 3	13.89 	Genes	NoDivision
+162	7 1 2 6 5	13.89 	Genes	NoDivision
+166	7 1 2 5 8	13.89 	Genes	NoDivision
+213	2 6 5 8 4	13.89 	Genes	NoDivision
+214	2 6 5 3 4	13.89 	Genes	NoDivision
+210	1 6 8 3 4	13.89 	Genes	NoDivision
+215	2 6 8 3 4	13.89 	Genes	NoDivision
+211	1 5 8 3 4	13.89 	Genes	NoDivision
+212	2 6 5 8 3	13.89 	Genes	NoDivision
+153	2 5 8 3	13.89 	Genes	NoDivision
+154	2 5 8 4	13.89 	Genes	NoDivision
+151	2 6 8 4	13.89 	Genes	NoDivision
+155	2 5 3 4	13.89 	Genes	NoDivision
+152	2 6 3 4	13.89 	Genes	NoDivision
+150	2 6 8 3	13.89 	Genes	NoDivision
+4	5	13.89 	Genes	NoDivision
+1	1	13.89 	Genes	NoDivision
+3	6	13.89 	Genes	NoDivision
+0	7	13.89 	Genes	NoDivision
+5	8	13.89 	Genes	NoDivision
+2	2	13.89 	Genes	NoDivision
+99	7 1 6 3	13.89 	Genes	NoDivision
+97	7 1 6 5	13.89 	Genes	NoDivision
+101	7 1 5 8	13.89 	Genes	NoDivision
+98	7 1 6 8	13.89 	Genes	NoDivision
+100	7 1 6 4	13.89 	Genes	NoDivision
+96	7 1 2 4	13.89 	Genes	NoDivision
+60	1 2 3	13.89 	Genes	NoDivision
+65	1 6 4	13.89 	Genes	NoDivision
+63	1 6 8	13.89 	Genes	NoDivision
+64	1 6 3	13.89 	Genes	NoDivision
+62	1 6 5	13.89 	Genes	NoDivision
+61	1 2 4	13.89 	Genes	NoDivision
+58	1 2 5	13.89 	Genes	NoDivision
+57	1 2 6	13.89 	Genes	NoDivision
+59	1 2 8	13.89 	Genes	NoDivision
+54	7 8 3	13.89 	Genes	NoDivision
+56	7 3 4	13.89 	Genes	NoDivision
+55	7 8 4	13.89 	Genes	NoDivision
+73	2 6 8	13.89 	Genes	NoDivision
+76	2 5 8	13.89 	Genes	NoDivision
+72	2 6 5	13.89 	Genes	NoDivision
+77	2 5 3	13.89 	Genes	NoDivision
+75	2 6 4	13.89 	Genes	NoDivision
+74	2 6 3	13.89 	Genes	NoDivision
+128	1 2 6 8	13.89 	Genes	NoDivision
+129	1 2 6 3	13.89 	Genes	NoDivision
+127	1 2 6 5	13.89 	Genes	NoDivision
+130	1 2 6 4	13.89 	Genes	NoDivision
+131	1 2 5 8	13.89 	Genes	NoDivision
+126	7 8 3 4	13.89 	Genes	NoDivision
+40	7 1 3	13.89 	Genes	NoDivision
+36	7 1 2	13.89 	Genes	NoDivision
+39	7 1 8	13.89 	Genes	NoDivision
+37	7 1 6	13.89 	Genes	NoDivision
+41	7 1 4	13.89 	Genes	NoDivision
+38	7 1 5	13.89 	Genes	NoDivision
+48	7 6 8	13.89 	Genes	NoDivision
+50	7 6 4	13.89 	Genes	NoDivision
+49	7 6 3	13.89 	Genes	NoDivision
+53	7 5 4	13.89 	Genes	NoDivision
+51	7 5 8	13.89 	Genes	NoDivision
+52	7 5 3	13.89 	Genes	NoDivision
+42	7 2 6	13.89 	Genes	NoDivision
+43	7 2 5	13.89 	Genes	NoDivision
+44	7 2 8	13.89 	Genes	NoDivision
+47	7 6 5	13.89 	Genes	NoDivision
+45	7 2 3	13.89 	Genes	NoDivision
+46	7 2 4	13.89 	Genes	NoDivision
+201	1 2 6 8 4	13.89 	Genes	NoDivision
+203	1 2 5 8 3	13.89 	Genes	NoDivision
+198	1 2 6 5 3	13.89 	Genes	NoDivision
+200	1 2 6 8 3	13.89 	Genes	NoDivision
+199	1 2 6 5 4	13.89 	Genes	NoDivision
+202	1 2 6 3 4	13.89 	Genes	NoDivision
+82	6 5 8	13.89 	Genes	NoDivision
+83	6 5 3	13.89 	Genes	NoDivision
+80	2 8 4	13.89 	Genes	NoDivision
+78	2 5 4	13.89 	Genes	NoDivision
+81	2 3 4	13.89 	Genes	NoDivision
+79	2 8 3	13.89 	Genes	NoDivision
+206	1 2 8 3 4	13.89 	Genes	NoDivision
+205	1 2 5 3 4	13.89 	Genes	NoDivision
+204	1 2 5 8 4	13.89 	Genes	NoDivision
+207	1 6 5 8 3	13.89 	Genes	NoDivision
+209	1 6 5 3 4	13.89 	Genes	NoDivision
+208	1 6 5 8 4	13.89 	Genes	NoDivision
+32	5 4	13.89 	Genes	NoDivision
+35	3 4	13.89 	Genes	NoDivision
+31	5 3	13.89 	Genes	NoDivision
+34	8 4	13.89 	Genes	NoDivision
+30	5 8	13.89 	Genes	NoDivision
+33	8 3	13.89 	Genes	NoDivision
+94	7 1 2 8	13.89 	Genes	NoDivision
+90	5 3 4	13.89 	Genes	NoDivision
+95	7 1 2 3	13.89 	Genes	NoDivision
+92	7 1 2 6	13.89 	Genes	NoDivision
+91	8 3 4	13.89 	Genes	NoDivision
+93	7 1 2 5	13.89 	Genes	NoDivision
+24	2 3	13.89 	Genes	NoDivision
+28	6 3	13.89 	Genes	NoDivision
+26	6 5	13.89 	Genes	NoDivision
+27	6 8	13.89 	Genes	NoDivision
+29	6 4	13.89 	Genes	NoDivision
+25	2 4	13.89 	Genes	NoDivision
+190	7 2 5 3 4	13.89 	Genes	NoDivision
+189	7 2 5 8 4	13.89 	Genes	NoDivision
+188	7 2 5 8 3	13.89 	Genes	NoDivision
+187	7 2 6 3 4	13.89 	Genes	NoDivision
+191	7 2 8 3 4	13.89 	Genes	NoDivision
+186	7 2 6 8 4	13.89 	Genes	NoDivision
+6	3	13.89 	Genes	NoDivision
+9	7 2	13.89 	Genes	NoDivision
+8	7 1	13.89 	Genes	NoDivision
+11	7 5	13.89 	Genes	NoDivision
+10	7 6	13.89 	Genes	NoDivision
+7	4	13.89 	Genes	NoDivision
+87	6 3 4	13.89 	Genes	NoDivision
+84	6 5 4	13.89 	Genes	NoDivision
+86	6 8 4	13.89 	Genes	NoDivision
+88	5 8 3	13.89 	Genes	NoDivision
+89	5 8 4	13.89 	Genes	NoDivision
+85	6 8 3	13.89 	Genes	NoDivision
+236	7 2 6 8 3 4	13.89 	Genes	NoDivision
+238	7 6 5 8 3 4	13.89 	Genes	NoDivision
+239	1 2 6 5 8 3	13.89 	Genes	NoDivision
+237	7 2 5 8 3 4	13.89 	Genes	NoDivision
+234	7 2 6 5 8 4	13.89 	Genes	NoDivision
+235	7 2 6 5 3 4	13.89 	Genes	NoDivision
+123	7 5 8 3	13.89 	Genes	NoDivision
+121	7 6 8 4	13.89 	Genes	NoDivision
+125	7 5 3 4	13.89 	Genes	NoDivision
+124	7 5 8 4	13.89 	Genes	NoDivision
+122	7 6 3 4	13.89 	Genes	NoDivision
+120	7 6 8 3	13.89 	Genes	NoDivision
+108	7 2 6 8	13.89 	Genes	NoDivision
+112	7 2 5 3	13.89 	Genes	NoDivision
+111	7 2 5 8	13.89 	Genes	NoDivision
+109	7 2 6 3	13.89 	Genes	NoDivision
+113	7 2 5 4	13.89 	Genes	NoDivision
+110	7 2 6 4	13.89 	Genes	NoDivision
+119	7 6 5 4	13.89 	Genes	NoDivision
+117	7 6 5 8	13.89 	Genes	NoDivision
+118	7 6 5 3	13.89 	Genes	NoDivision
+114	7 2 8 3	13.89 	Genes	NoDivision
+115	7 2 8 4	13.89 	Genes	NoDivision
+116	7 2 3 4	13.89 	Genes	NoDivision
+217	6 5 8 3 4	13.89 	Genes	NoDivision
+220	7 1 2 6 5 4	13.89 	Genes	NoDivision
+218	7 1 2 6 5 8	13.89 	Genes	NoDivision
+219	7 1 2 6 5 3	13.89 	Genes	NoDivision
+216	2 5 8 3 4	13.89 	Genes	NoDivision
+221	7 1 2 6 8 3	13.89 	Genes	NoDivision
+227	7 1 2 8 3 4	13.89 	Genes	NoDivision
+224	7 1 2 5 8 3	13.89 	Genes	NoDivision
+226	7 1 2 5 3 4	13.89 	Genes	NoDivision
+223	7 1 2 6 3 4	13.89 	Genes	NoDivision
+222	7 1 2 6 8 4	13.89 	Genes	NoDivision
+225	7 1 2 5 8 4	13.89 	Genes	NoDivision
+136	1 2 3 4	13.89 	Genes	NoDivision
+133	1 2 5 4	13.89 	Genes	NoDivision
+135	1 2 8 4	13.89 	Genes	NoDivision
+134	1 2 8 3	13.89 	Genes	NoDivision
+137	1 6 5 8	13.89 	Genes	NoDivision
+132	1 2 5 3	13.89 	Genes	NoDivision
+242	1 2 6 8 3 4	13.89 	Genes	NoDivision
+243	1 2 5 8 3 4	13.89 	Genes	NoDivision
+245	2 6 5 8 3 4	13.89 	Genes	NoDivision
+244	1 6 5 8 3 4	13.89 	Genes	NoDivision
+240	1 2 6 5 8 4	13.89 	Genes	NoDivision
+241	1 2 6 5 3 4	13.89 	Genes	NoDivision
+144	1 5 8 4	13.89 	Genes	NoDivision
+149	2 6 5 4	13.89 	Genes	NoDivision
+146	1 8 3 4	13.89 	Genes	NoDivision
+145	1 5 3 4	13.89 	Genes	NoDivision
+147	2 6 5 8	13.89 	Genes	NoDivision
+148	2 6 5 3	13.89 	Genes	NoDivision
+161	5 8 3 4	13.89 	Genes	NoDivision
+159	6 5 3 4	13.89 	Genes	NoDivision
+158	6 5 8 4	13.89 	Genes	NoDivision
+160	6 8 3 4	13.89 	Genes	NoDivision
+156	2 8 3 4	13.89 	Genes	NoDivision
+157	6 5 8 3	13.89 	Genes	NoDivision
+69	1 8 3	13.89 	Genes	NoDivision
+70	1 8 4	13.89 	Genes	NoDivision
+67	1 5 3	13.89 	Genes	NoDivision
+68	1 5 4	13.89 	Genes	NoDivision
+71	1 3 4	13.89 	Genes	NoDivision
+66	1 5 8	13.89 	Genes	NoDivision
+194	7 6 5 3 4	13.89 	Genes	NoDivision
+193	7 6 5 8 4	13.89 	Genes	NoDivision
+197	1 2 6 5 8	13.89 	Genes	NoDivision
+196	7 5 8 3 4	13.89 	Genes	NoDivision
+192	7 6 5 8 3	13.89 	Genes	NoDivision
+195	7 6 8 3 4	13.89 	Genes	NoDivision
+178	7 1 5 8 3	13.89 	Genes	NoDivision
+176	7 1 6 8 4	13.89 	Genes	NoDivision
+179	7 1 5 8 4	13.89 	Genes	NoDivision
+175	7 1 6 8 3	13.89 	Genes	NoDivision
+177	7 1 6 3 4	13.89 	Genes	NoDivision
+174	7 1 6 5 4	13.89 	Genes	NoDivision
+254	7 1 2 6 5 8 3 4	13.89 	Genes	NoDivision
+253	1 2 6 5 8 3 4	13.89 	Genes	NoDivision
+252	7 2 6 5 8 3 4	13.89 	Genes	NoDivision
+181	7 1 8 3 4	13.89 	Genes	NoDivision
+183	7 2 6 5 3	13.89 	Genes	NoDivision
+182	7 2 6 5 8	13.89 	Genes	NoDivision
+180	7 1 5 3 4	13.89 	Genes	NoDivision
+185	7 2 6 8 3	13.89 	Genes	NoDivision
+184	7 2 6 5 4	13.89 	Genes	NoDivision
+107	7 2 6 5	13.89 	Genes	NoDivision
+106	7 1 3 4	13.89 	Genes	NoDivision
+105	7 1 8 4	13.89 	Genes	NoDivision
+102	7 1 5 3	13.89 	Genes	NoDivision
+104	7 1 8 3	13.89 	Genes	NoDivision
+103	7 1 5 4	13.89 	Genes	NoDivision
+251	7 1 6 5 8 3 4	13.89 	Genes	NoDivision
+247	7 1 2 6 5 8 4	13.89 	Genes	NoDivision
+250	7 1 2 5 8 3 4	13.89 	Genes	NoDivision
+249	7 1 2 6 8 3 4	13.89 	Genes	NoDivision
+246	7 1 2 6 5 8 3	13.89 	Genes	NoDivision
+248	7 1 2 6 5 3 4	13.89 	Genes	NoDivision

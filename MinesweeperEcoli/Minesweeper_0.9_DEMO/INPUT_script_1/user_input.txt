@@ -1,0 +1,4 @@
+LAUNCHPAD /user/home/ig13470/wcm2022/wcEcoli/wholecell/fireworks/
+PROJECT_PATH /user/home/ig13470/wcm2022/wcEcoli/
+RUNSCRIPTSFOLDER /user/home/ig13470/wcm2022/wcEcoli/runscripts
+SEEDSNUMBER 1

@@ -1,0 +1,3 @@
+red_0	12.5d
+yellow_0	12.5h
+blue_0	10.0a
