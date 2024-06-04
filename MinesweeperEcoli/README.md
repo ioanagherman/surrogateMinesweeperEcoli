@@ -1,7 +1,7 @@
 # Minesweeper for *E. coli*
 This is an adaptation of the Minesweeper algorithm published in "Designing minimal genomes using whole-cell models" for *M. genitalium*. The algorithm has been changed to work together with the *E. coli* whole-cell model and its corresponding machine learning surrogate. The aim of the algorithm is to remove as many genes as possible from the *in-silico E. coli* genome (modelled using the WCM), while still maintaining division. The paper describing the results obtained using this code is "Accelerated design of *Escherichia coli* genomes with reduced size using a whole-cell model and machine learning surrogate".
 
-# Software requirements
+## Software requirements
 The algorithm uses Python 3.8.5 and it should be run together with the single-cell *E. coli* WCM published by the Covert Lab and Stanford University. The latest version of the WCM can be found [here](https://github.com/CovertLab/wcEcoli). 
 
 The algorithm also uses the following Python libraries (and corresponding versions): Pandas (version 2.0.3), Pickle (version 4.0).
