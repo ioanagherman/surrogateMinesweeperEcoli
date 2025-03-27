@@ -2,7 +2,7 @@
 
 from collections import namedtuple
 
-WRITTEN = "2024_05_10" # 4640 items
+WRITTEN = "2024_06_04" # 4640 items
 
 #pylint: disable=line-too-long,too-many-lines,invalid-name
 ntncbi = namedtuple('ntncbi', 'tax_id Org_name GeneID CurrentID Status Symbol Aliases description other_designations map_location chromosome genomic_nucleotide_accession_version start_position_on_the_genomic_accession end_position_on_the_genomic_accession orientation exon_count OMIM no_hdr0')
